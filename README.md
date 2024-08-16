@@ -5,3 +5,4 @@ the things i put here...
 reverse engineered schematics of old avionics.   
 some small c#, c, and py projects.   
 6502 and 8085 asembly and machine code.
+ROM dumps.
